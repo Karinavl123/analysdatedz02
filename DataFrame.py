@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from scipy import stats
 
-csv_file = 'film.csv'
+csv_file = 'film1.csv'
 df = pd.read_csv(csv_file, encoding='cp1252')
 
 
